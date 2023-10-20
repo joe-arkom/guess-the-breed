@@ -168,7 +168,7 @@ function Game() {
     return (
         <div>
             <div className="container">
-                <img className="dog" src={result.image}></img>
+                <img alt="Dog" className="dog" src={result.image}></img>
             </div>
 
             <div>
