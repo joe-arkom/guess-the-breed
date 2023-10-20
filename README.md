@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Dog Breed Guessing Game
 
 ## Goal
@@ -145,6 +143,3 @@ overflow: hidden;
 ## Future improvements?
 
 If I wanted to dive deeper into this I could add to the game mechanic and create some kind of points system, or maybe a timed challenge for the user to beat.
-=======
-# guess-the-dog-breed
->>>>>>> 26f63a766c24403a9be203ee9e13f304b5d76731
